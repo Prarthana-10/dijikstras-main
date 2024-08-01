@@ -15,7 +15,7 @@ The Dijkstra’s Path-finding Explorer is an interactive tool that allows users 
 * Visualization: Visual animations depict the exploration and path-finding process, making it easy to understand the algorithm's workings.
 
 ## Deployment
-The project is deployed and accessible at: Dijkstra’s Path-finding Explorer
+The project is deployed and accessible at: [Dijkstra’s Path-finding Explorer](https://dijikstravisualization-prarthana-10s-projects.vercel.app/)
 
 ## Getting Started
 To explore the Dijkstra’s Path-finding Explorer locally, follow these steps:
